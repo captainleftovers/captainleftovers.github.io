@@ -47,7 +47,7 @@ html {
   font-size: 6rem;
   font-weight: 700;
   color: #fff;
-  background-color: #0B4619;
+  background-color: #548CFF;
   padding: 0 3rem;
   margin-bottom: 5rem;
   text-transform: uppercase;
@@ -62,7 +62,7 @@ html {
   height: 25rem;
   object-fit: cover;
   border-radius: 50%;
-  border: 0.7rem dotted #0B4619;
+  border: 0.7rem dotted #548CFF;
   background-color: rgba(255, 255, 255, 0.7);
   padding: 0.5rem;
   opacity: 0.9;
@@ -71,7 +71,7 @@ html {
 .person-name {
   font-size: 2rem;
   color: #fff;
-  background-color: #0B4619;
+  background-color: #548CFF;
   margin: 5rem 0;
   padding: 0.5rem 3rem;
   letter-spacing: 0.3rem;
@@ -94,7 +94,7 @@ html {
 .navbar {
   width: 100%;
   height: 4rem;
-  background-color: #0B4619;
+  background-color: #548CFF;
   box-shadow: 0.2rem 0.2rem 0.5rem #555;
   position: absolute;
   z-index: 300;
@@ -185,7 +185,7 @@ html {
 .progress-percent {
   width: 0;
   height: 100%;
-  background-color: #0B4619;
+  background-color: #548CFF;
   border-radius: 0.3rem;
   transition: width 0.5s 0.5s ease-in-out;
 }
@@ -209,7 +209,7 @@ html {
 
 .service i {
   font-size: 10rem;
-  color: #888;
+  color: #000B49;
   margin-bottom: 2rem;
   text-shadow: 0.1rem 0.1rem 0.5rem #555;
 }
@@ -281,11 +281,11 @@ html {
 
 .project-technologies {
   font-size: 1.8rem;
-  color:#0B4619;
+  color:#548CFF;
 }
 
 .project-img {
-  width: 40rem;
+  width: 60rem;
   transition: opacity 0.3s;
 }
 
@@ -298,7 +298,7 @@ html {
   font-weight: 500;
   color: #333;
   letter-spacing: 0.1rem;
-  border: 0.3rem solid #0B4619;
+  border: 0.3rem solid #548CFF;
   padding: 0 1rem;
   background-color: #fff;
   position: absolute;
@@ -342,7 +342,7 @@ html {
   margin: 0.5rem 0;
   background-color: #eef;
   font-size: 1.5rem;
-  border: 0.2rem solid #0B4619;
+  border: 0.2rem solid #548CFF;
   color: #555;
 }
 
@@ -353,7 +353,7 @@ html {
 }
 
 .contact-form .contact-form-btn {
-  background-color:#0B4619;
+  background-color:#548CFF;
   color: #fff;
   text-transform: uppercase;
   letter-spacing: 1rem;
@@ -376,7 +376,7 @@ html {
 .social-media-link {
   margin: 0 2rem;
   padding: 0.7rem;
-  background-color: #0B4619;
+  background-color: #548CFF;
   border-radius: 0.5rem;
   display: inline-block;
 }
