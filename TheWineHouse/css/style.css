@@ -166,7 +166,7 @@ section {
 
 .section-1-wrapper {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4)),
-    url(TheWineHouse/images/section-1-bg.jpg) center no-repeat;
+    url(/images/section-1-bg.jpg) center no-repeat;
   background-size: cover;
 }
 
@@ -194,7 +194,7 @@ section {
 
 .section-2-wrapper {
   background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.9)),
-    url(images/section-2-bg.jpg) center no-repeat;
+    url(/images/section-2-bg.jpg) center no-repeat;
   background-size: cover;
   display: flex;
   align-items: center;
@@ -243,7 +243,7 @@ section {
 
 .section-3-wrapper {
   background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.9)),
-    url(images/section-3-bg.jpg) center no-repeat;
+    url(/images/section-3-bg.jpg) center no-repeat;
   background-size: cover;
   display: flex;
   align-items: center;
@@ -294,7 +294,7 @@ section {
   height: 110%;
   position: absolute;
   background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7)),
-    url(images/section-4-bg.jpg) center no-repeat;
+    url(/images/section-4-bg.jpg) center no-repeat;
   background-size: cover;
   z-index: -1;
   filter: blur(0.5rem);
@@ -322,7 +322,7 @@ section {
 
 .section-5-wrapper {
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)),
-    url(images/section-5-bg.jpg) center no-repeat;
+    url(/images/section-5-bg.jpg) center no-repeat;
   background-size: cover;
   display: flex;
   align-items: center;
